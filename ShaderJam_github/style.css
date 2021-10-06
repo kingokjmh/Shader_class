@@ -17,3 +17,10 @@ body {
       font-size: 36px;
       text-align: left;
   }
+
+  h2{
+    position: absolute;
+    top: 500px;
+    left: 40px;
+    color: aliceblue;
+  }
