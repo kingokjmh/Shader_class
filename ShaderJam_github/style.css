@@ -1,0 +1,26 @@
+body {
+    background-color: #0f0f0f;
+  }
+  
+  div {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  h1{
+      margin: 0.5vw;
+      color: rgb(200,200,200);
+      text-decoration: none;
+      font-family: system-ui;
+      font-weight: 400;
+      font-size: 36px;
+      text-align: left;
+  }
+
+  h2{
+    position: absolute;
+    top: 1000px;
+    left: 40px;
+    color: aliceblue;
+  }
